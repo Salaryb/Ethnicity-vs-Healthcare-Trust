@@ -37,5 +37,5 @@ The research follows a progressive data science workflow:
   * `pyreadstat` for statistical data reading.
 
 ## 👥 Authors
-* **Ben Vann**[cite: 2]
-* **Ben Jaitin**[cite: 2]
+* **Ben Jaitin**
+* **Ben Vann**
